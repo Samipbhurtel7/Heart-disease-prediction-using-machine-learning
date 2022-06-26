@@ -6,5 +6,5 @@ The Machine algorithms used in this project are:
 Random Forest classifier,
 Logistic Regression,
 and KNN
-
+The dataset used in this project is attached with the project :) 
 
